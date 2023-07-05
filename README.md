@@ -6,10 +6,9 @@ npm i
 npm start
 ```
 
-```
 To run tests
 
-```
+```javascript
 npm test
 ```
 
