@@ -1,0 +1,5 @@
+Components with no lead:
+--------------------------
+Backend: 65 issue(s)
+Synchronization: 12 issue(s)
+Templates: 25 issue(s)

@@ -1,0 +1,27 @@
+{
+  "name": "herocoders",
+  "version": "1.0.0",
+  "description": "test task",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "herocoders"
+  },
+  "author": "Igor Litvinovich<ihar.litvinovich@gmail.com",
+  "license": "ISC",
+  "engines": {
+    "node": "19.6.0",
+    "npm": "9.4.6"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
